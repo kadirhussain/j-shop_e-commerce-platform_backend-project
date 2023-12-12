@@ -5,7 +5,9 @@ Modules Description:
 1.	User
 2.	Product Owner
 3.	Admin
+   
 Key Features:
+
 •	Strict User Login: Users must sign up and log in to place orders, this feature preventing unauthorized purchases.
 
 •	Product Owner Management: Product owners can add product details, but their accounts require admin verification before accessing this functionality.
