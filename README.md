@@ -23,9 +23,13 @@ Future Improvements: Front-End Development & AWS Deployment
 Planned: Develop React/Node.js front-end, integrate with API, and deploy on AWS for enhanced user experience and scalability.
 
 Tools & Technologies used:
+
 •	Backend: Java, Spring Boot
+
 •	Database: MySQL
+
 •	API Testing: Postman, Swagger UI
+
 •	Development Time: An individual project developed within 7 days.
 
 Author Name
