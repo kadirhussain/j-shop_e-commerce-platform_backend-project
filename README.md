@@ -1,5 +1,6 @@
 # j-shop_e-commerce-platform_backend-project
 This project is a secure e-commerce platform built with Java, Spring Boot, MySQL,   and Postman API testing. It features separate logins for users, product owners, and admins, ensuring secure access to different functionalities.
+
 Modules Description:
 1.	User
 2.	Product Owner
